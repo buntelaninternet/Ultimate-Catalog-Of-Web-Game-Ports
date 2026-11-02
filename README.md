@@ -1,12 +1,3 @@
-<p align="center">📢 <b>Telegram: <a href="https://t.me/gamebase54">t.me/gamebase54</a></b> — news and updates</p>
-
-<div align="center">
-
-# 🎮 Ultimate Catalog of Web Game Ports
-
-**Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
-
-![games](https://img.shields.io/badge/games-939-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-526-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-618-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-213-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--31-555?style=for-the-badge)
 
 </div>
 
